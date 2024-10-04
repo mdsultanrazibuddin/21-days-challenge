@@ -25,5 +25,7 @@ console.log(output);
 // spread operator
 
 const newNumber = [...arr, 77]
+console.log(arr);
+
 console.log(newNumber);
 
